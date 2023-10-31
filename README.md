@@ -14,7 +14,7 @@ Just to clarify, this is a graphing calculator that no one asked for! I simply g
 1. Execute the calculator by running `python graphing_calculator.py` in your terminal or command prompt.
 2. The calculator will prompt you to enter an origin point for the graph.
 3. You can then set up axis ticks by specifying the space between them.
-4. Enter a mathematical expression (e.g., `y = 2 * x + 3`) to plot it on the graph.
+4. Enter a mathematical expression (e.g., `x**2`) to plot it on the graph.
 5. The graph will be displayed, showing the plotted expression based on your settings.
 
 ### Example
